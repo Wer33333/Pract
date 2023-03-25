@@ -1,0 +1,12 @@
+E:\Практика мат\Ну ты кадр\Ну ты кадр\bin\Debug\Ну ты кадр.exe.config
+E:\Практика мат\Ну ты кадр\Ну ты кадр\bin\Debug\Ну ты кадр.exe
+E:\Практика мат\Ну ты кадр\Ну ты кадр\bin\Debug\Ну ты кадр.pdb
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну ты кадр.csproj.AssemblyReference.cache
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну ты кадр.csproj.SuggestedBindingRedirects.cache
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну_ты_кадр.Form1.resources
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну_ты_кадр.Properties.Resources.resources
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну ты кадр.csproj.GenerateResource.cache
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну ты кадр.csproj.CoreCompileInputs.cache
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну ты кадр.exe
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну ты кадр.pdb
+E:\Практика мат\Ну ты кадр\Ну ты кадр\obj\Debug\Ну_ты_кадр.fAddClient.resources
